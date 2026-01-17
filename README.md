@@ -1,2 +1,5 @@
-# MERN-Calendar-Backend_
-This is a repository for learn more about MEAR ( MongoDB, Express, Angular and Node)
+# Backend MERN - Calendar
+
+Backend que creamos en mi curso de React: de cero a experto
+
+fernando-herrera.com
